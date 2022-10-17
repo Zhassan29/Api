@@ -14,3 +14,8 @@
 ## 4. Flexibility and Portability
 - In REST, it is easy to update the data in the database at any moment. It gives the flexibility to answer many clients asking for different data types (XML, JSON, and so on). All you just need to do is to request the data types using the Accept header. REST will return the response depending on the specified data types.
 ---
+# Why python is a good language for developing rest API
+- Python is considered a beginner-friendly language. This means that it has an excellent community base with experienced teachers available to help you learn Python. It's also easy to write code for beginners since there are no complex rules when writing like other languages (i.e., C++). This means you can focus on learning the language itself rather than worrying about more difficult syntax.
+# What is a Rest API call?
+- Now that we have a gist of what an API is and what it does, let’s switch our attention to an API call. Simply put, the moment you add an endpoint to a URL and send a request to a server, this is what counts as making an API call. For example, when you log on to any app or ask a question via a browser, you are actually making an API call.
+
